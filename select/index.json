@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "超最強 (Live)",
+  "base_artist": "超ときめき♡宣伝部",
+  "createdAt": "2026-01-05T05:22:08.136953Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "超最強",
+      "artist": "超ときめき♡宣伝部",
+      "has_synced": false,
+      "path": "select/01_超最強_超ときめき♡宣伝部.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "超最強",
+      "artist": "超ときめき 宣伝部",
+      "has_synced": false,
+      "path": "select/pl_01_超最強_超ときめき_宣伝部.txt"
+    }
+  ]
+}
